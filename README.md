@@ -1,6 +1,11 @@
 # 環境構成 / Environment Setup
 
-## 日本語（やさしい説明）
+* [日本語](#日本語)
+* [English](#english)
+
+---
+
+## 日本語
 
 ### 目的
 
@@ -107,7 +112,7 @@ ddev restart
 
 ---
 
-## English Version
+## English
 
 ### Purpose
 
